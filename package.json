@@ -1,0 +1,12 @@
+{
+  "start": "node index.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "random-lorem": "^1.0.4",
+    "roblox-js": "^3.0.7",
+    "uuid": "^3.1.0",
+    "uws": "^8.14.0"
+  },
+  "name": "",
+  "version": ""
+}
